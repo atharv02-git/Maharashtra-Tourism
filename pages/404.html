@@ -1,0 +1,102 @@
+---
+# example 404.html
+
+layout: default
+permalink: /404.html
+---
+
+# 404
+
+Page not found! :(
+
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+  <title>Error 404 | Page Not Found</title>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta
+    description="Error 404. The page you're looking for can't be found. A sample error 404 page to display when the page is not avaialble." />
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  <link rel="shortcut icon" href="assets/icons/broken_link_favicon.ico">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <style>
+    body {
+      font: 20px Montserrat, sans-serif;
+      line-height: 1.8;
+      color: #f5f6f7;
+    }
+
+    p {
+      font-size: 16px;
+    }
+
+    .margin {
+      margin-bottom: 45px;
+    }
+
+    .bg-1 {
+      background-color: rgb(0, 0, 0);
+    }
+
+    img {
+      width: 80%;
+      height: auto;
+    }
+
+    .bg-4 {
+      background-color: #2f2f2f;
+      /* Black Gray */
+      color: #fff;
+    }
+
+    .container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+    }
+
+    html {
+      background: no-repeat center center fixed;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      -o-background-size: cover;
+      background-size: cover;
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- First Container -->
+  <div class="container-fluid bg-1 text-center">
+    <h1 style="font-size:80px;" class="margin">Oops!</h1>
+    <img src="images/error404.png" class="img-responsive margin" style="display:inline" alt="Error 404">
+    <h3>The page you are looking for can't be found</h3>
+    <br />
+    <div class="row align-items-center">
+      <div class="col"></div>
+      <div class="col">
+        <h3>Visit Homepage :</h3>
+        <a href="https://saideepdicholkar.blogspot.com">saideepdicholkar.blogspot.com</a>
+      </div>
+      <div class="col"></div>
+    </div>
+
+    <br /><br />
+    <h3>Looks like it's a Broken Link</h3>
+    <img src="images/broken_link.png" class="img-responsive margin" style="display:inline" alt="Broken Link">
+  </div>
+
+  <!-- Footer -->
+  <footer class="container-fluid bg-4 text-center">
+      <p class="footer" style="color: white; text-align: center;">Copyright &copy; Mumbai 2017
+        <script>new Date().getFullYear() > 2017 && document.write("- " + new Date().getFullYear());</script>
+      </p>
+  </footer>
+
+</body>
+
+</html>
