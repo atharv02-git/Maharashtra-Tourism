@@ -9,7 +9,7 @@ We have built the website using various languages like **HTML5, CSS3, JavaScript
 There exist many websites over the internet but our website is an all-in-one source for detailed and concise information about Mumbai.
 
 
-### Made with 💖 for Mumbai
+### Made with 💖 for Maharashtra
 <br />
 
 This website is built as a Mini Project in Web Technology for 3rd year of Computer Engineering.
