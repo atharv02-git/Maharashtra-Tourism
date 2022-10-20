@@ -1,5 +1,5 @@
-# Mumbai
-A website for tourists traveling in Mumbai. This site will help you to find the popular destinations, history, hotels, etc. to visit in Mumbai. Our site provides short and crisp information about Mumbai.
+# Maharashtra
+A website for tourists traveling in Maharashtra. This site will help you to find the popular destinations, history, hotels, etc. to visit in Mumbai. Our site provides short and crisp information about Mumbai.
 
 <!-- ![mumbai](https://user-images.githubusercontent.com/30663492/32111135-40b6166a-bb57-11e7-9afe-3c2c165c4584.PNG) -->
 
